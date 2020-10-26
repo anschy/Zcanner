@@ -2,7 +2,7 @@
 
 To run Zcanner. Please follow the steps given below.
 
-step 1 - initialise a git folder.  
+step 1 - initialise a git folder by typing __git init__ in command or terminal.  
 step 2 - in command cd the path of that folder and then type __git clone https://github.com/anshulchaudhary0677/Zcanner.git__  
 step 3 - run the file scan.py  
 step 4 - paste the path of your file in the command prompt.  
